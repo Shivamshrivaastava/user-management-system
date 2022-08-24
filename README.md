@@ -16,10 +16,4 @@ $ npm run dev
 # production build
 $ npm run build
 
-```
-## Server-side
-Live API Endpoints: [https://user-management-node.herokuapp.com/api](https://user-management-node.herokuapp.com/api)
-<br />
-Server-side source codes: [https://github.com/sabuhinazarov/user-management-node](https://github.com/sabuhinazarov/user-management-node)
-<br />
-You can change api base url from **./src/index.js**
+
